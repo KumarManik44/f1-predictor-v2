@@ -7,6 +7,10 @@ An advanced machine learning system for predicting F1 race podium finishes using
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.40-red)
 ![Accuracy](https://img.shields.io/badge/Accuracy-91.29%25-brightgreen)
 
+## 🚀 Live Demo
+
+[**Try the App Here**](https://f1-predictor-v2-qo3y9pjrhoqxze7sswejcd.streamlit.app/)
+
 ## 📊 Project Overview
 
 This project evolved from a basic 5-feature model (V1: 91.56% accuracy) to an advanced 33-feature system (V2: 91.29% accuracy with 0.947 ROC AUC) that incorporates:
